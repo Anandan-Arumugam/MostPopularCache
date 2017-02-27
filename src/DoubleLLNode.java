@@ -1,4 +1,4 @@
-
+// Author : Anandan
 public class DoubleLLNode {
 	private User userMap;
 	private DoubleLLNode previous;
